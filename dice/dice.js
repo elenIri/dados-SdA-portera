@@ -296,11 +296,11 @@
 
     this.scale = 50;
 
-    let col1 = '#8d6ff4';
-    let col2 = '#7c59f4';
-    let col3 = '#7048f6';
-    let col4 = '#6337fa';
-    let col5 = '#5221f8'; 
+    let col1 = '#ec1313';
+    let col2 = '#f631ea';
+    let col3 = '#FFC300';
+    let col4 = '#2d59f4';
+    let col5 = '#19be0e'; 
 
     this.create_d1 = function() {
         if (!this.d2_geometry) this.d2_geometry = this.create_d2_geometry(this.scale * 1.7);
